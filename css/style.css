@@ -1,0 +1,32 @@
+body{
+    margin: 8px;
+}
+
+.quoter {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    font-size: 35px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    transition: all 0.5s;
+}
+
+button:hover {
+    background-color: green;
+    cursor: pointer;
+}
